@@ -1,0 +1,55 @@
+body {
+  min-height: 100vh;
+  background-color: #e5e5e5;
+  padding: 0.1px;
+}
+
+article {
+  background-color: white;
+  width: 432px;
+  height: 399px;
+  margin: 150px auto;
+  border-radius: 20px;
+  padding: 70px 52px;
+  text-align: center;
+  position: relative;
+}
+
+.fechar {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.fechar:hover {
+  cursor: pointer;
+}
+
+article img {
+  margin-bottom: 30px;
+  width: 86px;
+  height: auto;
+}
+
+article p {
+  margin-bottom: 40px;
+  font-size: 18px;
+}
+
+article button {
+  width: 201px;
+  height: 49px;
+  font-size: 16px;
+  border-radius: 5px;
+  color: white;
+}
+
+.btn-cookie {
+  background-color: #ED6755;
+}
+
+.btn-alerta {
+  background-color: #1C1B5E;
+}
