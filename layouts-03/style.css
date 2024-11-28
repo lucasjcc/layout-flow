@@ -1,0 +1,60 @@
+body {
+  min-height: 100vh;
+  background-color: #eff5ff;
+}
+
+article {
+  width: 536px;
+  height: 562px;
+  border-radius: 15px;
+  margin: 346px auto;
+  background-color: #FFFFFF;
+  padding: 75px 70px 50px;
+}
+
+article h2 {
+  font-size: 22px;
+  margin-bottom: 21px;
+}
+
+.descricao {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.atualizado {
+  font-size: 14px;
+  color: #494949;
+  margin-bottom: 50px;
+}
+
+section {
+  color: #494949;
+  font-size: 16px;
+  margin-bottom: 32px;
+}
+
+section h3 {
+  margin-bottom: 10px;
+}
+
+section ul {
+  list-style: none;
+  color: #2e29ff;
+}
+
+section li {
+  display: inline-block;
+  margin: 0 9px 10px 0;
+  padding: 9px 20px;
+  background-color: #eff5ff;
+  border-radius: 22px;
+}
+
+button {
+  width: 141px;
+  height: 48px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
