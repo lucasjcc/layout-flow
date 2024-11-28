@@ -1,0 +1,39 @@
+body {
+  min-height: 100vh;
+  background-color: #163f78;
+  padding: 0.01px;
+}
+
+article {
+  width: 608px;
+  height: 728px;
+  margin: 160px auto;
+  border-radius: 20px;
+  background-color: white;
+  padding: 80px 162px 93px;
+  text-align: center;
+}
+
+article img {
+  width: 206.03px;
+  height: 206.03px;
+  border: 16px solid #ECF3FC;
+  border-radius: 50%;
+  margin-bottom: 44px;
+}
+
+article h2 {
+  font-size: 48px;
+  color: #131e30;
+  margin-bottom: 7px;
+}
+
+article>p {
+  color: #131e30;
+  font-size: 36px;
+  margin-bottom: 93px;
+}
+
+article div {
+  font-size: 36px;
+}
