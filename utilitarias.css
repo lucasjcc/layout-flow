@@ -1,21 +1,61 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@400;700&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:wght@400;900&display=swap");
 
 .roboto-400 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
 }
 
 .merriweather-400 {
-  font-family: 'Merriweather', sans-serif;
+  font-family: "Merriweather", sans-serif;
   font-style: normal;
   font-weight: 400;
 }
 
+.merriweather-700 {
+  font-family: "Merriweather", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-900 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 900;
+}
+
 .opensans-400 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
+}
+
+.opensans-700 {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lato-400 {
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lato-700 {
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-400 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mulish-700 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
